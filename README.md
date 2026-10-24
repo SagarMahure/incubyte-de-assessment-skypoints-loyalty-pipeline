@@ -23,7 +23,7 @@ Incremental load: the pipeline only picks up files whose batch (the date in the 
 
 ## Progress
 
-- [ ] control and audit tables (SQL database)
+- [x] control and audit tables (SQL database)
 - [ ] bronze: members
 - [ ] silver: Age, Stale_Member, validation rules
 - [ ] gold: country split, latest record wins
