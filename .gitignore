@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+spark-warehouse/
+metastore_db/
+derby.log
